@@ -18,6 +18,7 @@ Install Node and MYSQL if you have not already. Clone repo and run 'npm i' to do
 
 ## Usage Instructions
 After installation you can manipulate the data using Insomnia or a similar application.
+A video demonstration can be found here: https://drive.google.com/file/d/1FmSz87wuPQ9LASzA4qBTpKyGJfM28jLb/view
 
 ## Questions
 For more information about the developer, check out my [Github Profile](https://github.com/BVlah)
