@@ -14,7 +14,7 @@ A back-end only project for an e-commerce site that demonstrates RESTful CRUD me
 [License](#License)
   
 ## Installation Instructions
-Install Node and MYSQL if you have not already. Clone repo and run 'npm i' to download all dependencies. In mysql run 'source db/schema.sql' to create the database and then in terminal run 'seeds/index.js' to seed the database.
+Install Node and MYSQL if you have not already. Clone repo and run 'npm i' to download all dependencies. In mysql run 'source db/schema.sql' to create the database and then in terminal run 'node seeds/index.js' to seed the database.
 
 ## Usage Instructions
 After installation you can manipulate the data using Insomnia or a similar application.
